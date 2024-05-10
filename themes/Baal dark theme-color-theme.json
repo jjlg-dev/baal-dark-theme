@@ -4,7 +4,13 @@
     "editor.background": "#1c1f20",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    // "activityBar.activeBackground": "#ff0000",
+    "sideBarTitle.foreground": "#bbbbbb",
+    //ACTIONS COLORS
+ 
+    "toolbar.hoverBackground": "#728799",  
+    // "toolbar.activeBackground": "#ff0000", // color when you click on an Icon
+    
   },
   "tokenColors": [
     {
@@ -595,18 +601,9 @@
     {
       "name": "Operators",
       "scope": [
-        // "keyword.operator.assignment",
-        // "keyword.operator.expression",
-        // "keyword.operator.logical",
-        // "keyword.operator.arrow",
-        // "keyword.operator.null-conditional",
-        // "keyword.operator.conditional.question-mark",
-        // "keyword.operator.conditional.colon",
+
         "constant.language.boolean",
         "constant.language.null",
-        // "keyword.operator.comparison",
-        // "keyword.operator.relational",
-        // "keyword.operator.null-coalescing.",
         "keyword.operator"
       ],
       "settings": {
