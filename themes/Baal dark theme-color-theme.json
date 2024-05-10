@@ -13,10 +13,9 @@
     "textBlockQuote.background": "#ff00ff",
     "textCodeBlock.background": "#ff0095",
     
-
     //ACTIONS COLORS
-    "toolbar.hoverBackground": "#728799",  
-    "toolbar.activeBackground": "#617383", // color when you click on an Icon
+    "toolbar.hoverBackground": "#7287997a",  
+    "toolbar.activeBackground": "#6173837a", // color when you click on an Icon
     
     //Button Control
     "button.background": "#b394bb", 
@@ -27,7 +26,29 @@
     "dropdown.background": "#1e1e1e",
     "dropdown.listBackground": "#1e1e1e",
     "dropdown.foreground": "#c5c8c7",
-    // "dropdown.border": "#2a2d2e",
+
+    // Input Control
+    "input.background": "#1c1f20",
+    "input.foreground": "#c5c8c7",
+    "input.placeholderForeground": "#c5c8c7",
+    "inputOption.activeBackground": "#6173837a",
+    "inputOption.activeBorder": "#6173837a",
+    "inputOption.activeForeground": "#c5c8c7",
+    "inputOption.hoverBackground": "#7287997a",
+    // "inputValidation.errorBackground": "#ff0000",
+    // "inputValidation.errorForeground": "#ff0000",
+    // "inputValidation.errorBorder": "#ff0000",
+    // "inputValidation.infoBackground": "#ff0000",
+    // "inputValidation.infoForeground": "#ff0000",
+    // "inputValidation.infoBorder": "#ff0000",
+    // "inputValidation.warningBackground": "#ff0000",
+    // "inputValidation.warningForeground": "#ff0000",
+    // "inputValidation.warningBorder": "#ff0000",
+
+  
+
+
+  
     
   },
   "tokenColors": [
