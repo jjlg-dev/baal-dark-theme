@@ -1,27 +1,33 @@
 {
   "name": "Baal dark theme",
   "colors": {
-    "editor.background": "#1c1f20",
-    "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
-    // "activityBar.activeBackground": "#ff0000",
-    "sideBarTitle.foreground": "#bbbbbb",
+    // "editor.background": "#1c1f20",
+    // "editor.foreground": "#eeffff",
+    // "activityBarBadge.background": "#007acc",
+    // // "activityBar.activeBackground": "#ff0000",
+    // "sideBarTitle.foreground": "#bbbbbb",
 
     //Text Colors
-
     "textLink.foreground": "#728799",
-    "textLink.activeForeground": "#b394bb",
+    "textLink.activeForeground": "#b394bb", 
+    "textBlockQuote.background": "#ff00ff",
+    "textCodeBlock.background": "#ff0095",
     
-
 
     //ACTIONS COLORS
     "toolbar.hoverBackground": "#728799",  
-    // "toolbar.activeBackground": "#ff0000", // color when you click on an Icon
+    "toolbar.activeBackground": "#617383", // color when you click on an Icon
     
     //Button Control
     "button.background": "#b394bb", 
     "button.foreground": "#000000", //text color of the button
     "button.separator": "#000000", 
+
+    //Dropdown Control
+    "dropdown.background": "#1e1e1e",
+    "dropdown.listBackground": "#1e1e1e",
+    "dropdown.foreground": "#c5c8c7",
+    // "dropdown.border": "#2a2d2e",
     
   },
   "tokenColors": [
