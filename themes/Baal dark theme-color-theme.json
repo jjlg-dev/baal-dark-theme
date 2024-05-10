@@ -7,6 +7,12 @@
     // "activityBar.activeBackground": "#ff0000",
     "sideBarTitle.foreground": "#bbbbbb",
 
+    //Text Colors
+
+    "textLink.foreground": "#728799",
+    "textLink.activeForeground": "#b394bb",
+    
+
 
     //ACTIONS COLORS
     "toolbar.hoverBackground": "#728799",  
