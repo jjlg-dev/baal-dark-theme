@@ -4,7 +4,7 @@
     // "editor.background": "#1c1f20",
     // "editor.foreground": "#eeffff",
     // "activityBarBadge.background": "#007acc",
-    // // "activityBar.activeBackground": "#ff0000",
+    // // "activityBar.act,iveBackground": "#ff0000",
     // "sideBarTitle.foreground": "#bbbbbb",
 
     //Text Colors
@@ -51,6 +51,9 @@
     "scrollbarSlider.hoverBackground": "#333333",
     "scrollbarSlider.activeBackground": "#333333",
     
+    //badge
+    "badge.background": "#b394bb7c",
+    "badge.foreground": "#c5c8c7",
 
   
 
