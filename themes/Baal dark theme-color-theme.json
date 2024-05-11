@@ -45,6 +45,13 @@
     // "inputValidation.warningForeground": "#ff0000",
     // "inputValidation.warningBorder": "#ff0000",
 
+    //Scroll Bar Control
+    "scrollbar.shadow": "#00000000",
+    "scrollbarSlider.background": "#333333",
+    "scrollbarSlider.hoverBackground": "#333333",
+    "scrollbarSlider.activeBackground": "#333333",
+    
+
   
 
 
